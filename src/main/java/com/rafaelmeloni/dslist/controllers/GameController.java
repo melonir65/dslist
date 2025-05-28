@@ -2,7 +2,6 @@ package com.rafaelmeloni.dslist.controllers;
 
 import com.rafaelmeloni.dslist.dto.GameDTO;
 import com.rafaelmeloni.dslist.dto.GameMinDTO;
-import com.rafaelmeloni.dslist.entities.Game;
 import com.rafaelmeloni.dslist.services.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
