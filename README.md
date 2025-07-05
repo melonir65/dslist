@@ -1,27 +1,36 @@
 # DS List
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/melonir65/dslist/edit/main/LICENSE) 
 
-# Sobre o projeto
+# Sobre o projeto  
 
 https://dslist-zl02.onrender.com
 
-DS list é uma uma API REST  construída durante o intensivão Java Spring , evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+Este projeto apresenta a DS List, uma API REST desenvolvida em Java Spring Boot com arquitetura em camadas, criada durante o "Intensivão Java Spring", um evento organizado pela DevSuperior.
 
-Esta é uma aplicação back-end que permite aos usuários organizar suas coleções de jogos usando uma API RESTful, permitindo que os usuários gerenciem seus dados de jogos de forma eficiente.
+A DS List é uma aplicação back-end robusta, projetada para permitir que os usuários organizem e gerenciem suas coleções de jogos de forma eficiente.
+
 
 ## Exemplo de layout
 ![Layout](https://github.com/melonir65/assets/blob/main/Captura%20de%20tela%202025-07-04%20201554.png)
 
+## Arquitetura em camadas
+![Modelo Conceitual](https://github.com/melonir65/assets/blob/main/padr%C3%A3o%20de%20camadas.png)
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/melonir65/assets/blob/main/dslist-model.png)
 
 # Tecnologias utilizadas
 ## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 
 ## Implantação em produção
 - Back end: Render
@@ -52,4 +61,8 @@ Pré-requisitos: Java 21
 
 Rafael Meloni dos Santos
 
-https://www.linkedin.com/in/rafael-meloni-dos-santos-ti/
+## Como me contactar
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-meloni-dos-santos-ti/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafealmeloni@gmail.com)
+
+
